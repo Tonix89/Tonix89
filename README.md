@@ -9,8 +9,9 @@ What I learned so far:
   - Using relevant tools to check website WCAG Compliance such as [Contrast Checker](https://contrastchecker.com/).
   - Using project development tools such [Trello](https://trello.com/).
   - Using [WordPress](https://wordpress.com/) and [Google Spreadsheet](https://www.google.com/sheets) as database.
-  - GET and POST API Method.
-  - Bootstrap 5
+  - REST API Methods such as "GET", "PUT/PATCH","DELETE" and "POST".
+  - Advance Javascript ( Destructuring and Array methods ).
+  - Bootstrap 5 with SASS.
 
 ## Contact:
 
