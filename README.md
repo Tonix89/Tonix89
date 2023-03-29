@@ -20,8 +20,8 @@ I am currently a student at NorOff School of Technology and Digital Media taking
 
 ## Contact:
 
-  [LinkedIn](https://www.linkedin.com/in/antonio-arabejo-a22524152/)
-  [Facebook](https://www.facebook.com/tonixzz)
+  - [LinkedIn](https://www.linkedin.com/in/antonio-arabejo-a22524152/)
+  - [Facebook](https://www.facebook.com/tonixzz)
 
 <!--
 **Tonix89/Tonix89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
