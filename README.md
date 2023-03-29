@@ -2,7 +2,7 @@
 
 I am currently a student at NorOff School of Technology and Digital Media taking front-end development course. It is a 2 years vocational course which will be finished on December 2024.
 
-What I learned so far:
+### What I learned so far:
 
   - Making prototype using Adobe XD.
   - Building website using HTML, CSS and JavaScript.
@@ -12,6 +12,11 @@ What I learned so far:
   - REST API Methods such as "GET", "PUT/PATCH","DELETE" and "POST".
   - Advance Javascript ( Destructuring and Array methods ).
   - Bootstrap 5 with SASS.
+ 
+ ### What we're doing as of now:
+  
+  - Git commands and workflow.
+  - Installing development dependencies such as (Prettier, Eslint, Jest and Cypress).
 
 ## Contact:
 
