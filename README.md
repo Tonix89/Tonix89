@@ -1,6 +1,6 @@
 ### Hi! I'm Antonio a.k.a. "Tonix" 👋
 
-I am currently a student at NorOff School of Technology and Digital Media taking front-end development course. It is a 2 years vocational course which will be finished on December 2024.
+I am currently a student at NorOff School of Technology and Digital Media taking front-end development course. It is a 2 years vocational course which will be finished on December 2023.
 
 ### What I learned so far:
 
