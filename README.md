@@ -1,6 +1,6 @@
 ### Hi! I'm Antonio a.k.a. "Tonix" 👋
 
-I am currently a student at NorOff School of Technology and Digital Media taking front-end development course. It is a 2 years vocational course which will be finished on December 2023.
+I am currently a student at NorOff School of Technology and Digital Media taking a front-end development course. It is a 2 years vocational course which will be finished on December 2023.
 
 ### What I learned so far:
 
@@ -8,15 +8,17 @@ I am currently a student at NorOff School of Technology and Digital Media taking
   - Building website using HTML, CSS and JavaScript.
   - Using relevant tools to check website WCAG Compliance such as [Contrast Checker](https://contrastchecker.com/).
   - Using project development tools such [Trello](https://trello.com/).
-  - Using [WordPress](https://wordpress.com/) and [Google Spreadsheet](https://www.google.com/sheets) as database.
+  - Using [WordPress](https://wordpress.com/) and [Google Spreadsheet](https://www.google.com/sheets) as CMS.
   - REST API Methods such as "GET", "PUT/PATCH","DELETE" and "POST".
   - Advance Javascript ( Destructuring and Array methods ).
   - Bootstrap 5 with SASS.
+  - Using get commands for version control.
+  - Using development dependencies such as (Prettier, Eslint, Jest and Cypress).
+  - Using Javascript frameworks [React](https://react.dev/).
+  - Using React UI framework [Material UI](https://mui.com/)
  
  ### What we're doing as of now:
-  
-  - Git commands and workflow.
-  - Installing development dependencies such as (Prettier, Eslint, Jest and Cypress).
+  This is my last semester as a front-end development student at Noroff. With our final project, we need to use all the knowledge we have learned since the beginning. From designing and prototyping to using a Javascript framework.
 
 ## Contact:
 
