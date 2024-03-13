@@ -1,29 +1,28 @@
 ### Hi! I'm Antonio a.k.a. "Tonix" 👋
 
-I am currently a student at NorOff School of Technology and Digital Media taking a front-end development course. It is a 2 years vocational course which will be finished on December 2023.
+Just finished my front-end web development course at Noroff last December 2023. I am currently working on my personal projects, a photo booth for a small business, and a website for my church while searching job as a junior front-end web developer.
 
-### What I learned so far:
+### My programming experience:
 
-  - Making prototype using Adobe XD.
+  - Making prototypes using Adobe XD.
   - Building website using HTML, CSS and JavaScript.
   - Using relevant tools to check website WCAG Compliance such as [Contrast Checker](https://contrastchecker.com/).
-  - Using project development tools such [Trello](https://trello.com/).
-  - Using [WordPress](https://wordpress.com/) and [Google Spreadsheet](https://www.google.com/sheets) as CMS.
+  - Using project development tools such [Trello](https://trello.com/) and [Github Projects](https://github.com/)
+  - Using [WordPress](https://wordpress.com/) as CMS.
   - REST API Methods such as "GET", "PUT/PATCH","DELETE" and "POST".
-  - Advance Javascript ( Destructuring and Array methods ).
+  - Advanced Javascript ( Destructuring and Array methods ).
   - Bootstrap 5 with SASS.
   - Using get commands for version control.
   - Using development dependencies such as (Prettier, Eslint, Jest and Cypress).
   - Using Javascript frameworks [React](https://react.dev/).
-  - Using React UI framework [Material UI](https://mui.com/)
- 
- ### What we're doing as of now:
-  This is my last semester as a front-end development student at Noroff. With our final project, we need to use all the knowledge we have learned since the beginning. From designing and prototyping to using a Javascript framework.
+  - Using React UI framework [Material UI](https://mui.com/).
+  - Using BAas such as [Firebase](https://firebase.google.com/).
 
 ## Contact:
 
   - [LinkedIn](https://www.linkedin.com/in/antonio-arabejo-a22524152/)
   - [Facebook](https://www.facebook.com/tonixzz)
+  - [Portfolio](https://tonix.no/)
 
 <!--
 **Tonix89/Tonix89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
